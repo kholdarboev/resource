@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284px" height="184px" viewBox="0 0 284 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>编组 20</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资源" transform="translate(-116.000000, -783.000000)">
+            <g id="编组-20" transform="translate(116.000000, 783.000000)">
+                <path d="M2,0 L282,0 C283.104569,-2.02906125e-16 284,0.8954305 284,2 L284,184 L284,184 L0,184 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="蒙版备份-4" fill="#9254DE"></path>
+                <g id="编组-15备份" transform="translate(99.000000, 49.000000)">
+                    <rect id="矩形备份-30" x="0" y="0" width="86.4" height="86.4"></rect>
+                    <g id="编组-8" transform="translate(7.200000, 6.000000)">
+                        <path d="M11.5714286,0 L11.5714286,74.4 L0,74.4 L0,0 L11.5714286,0 Z M72,0 L72,74.4 L12,74.4 L12,0 L72,0 Z" id="形状" fill="#D3ADF7"></path>
+                        <rect id="矩形" fill="#9254DE" x="20.4" y="8.4" width="43.2" height="22.8"></rect>
+                        <text id="RP" font-family="PingFangSC-Medium, PingFang SC" font-size="14.4" font-weight="400" fill="#FFFFFF">
+                            <tspan x="32.4" y="24.6">RP</tspan>
+                        </text>
+                        <rect id="矩形" fill="#F5EBFF" x="31.2" y="40.8" width="22.8" height="3.6"></rect>
+                        <rect id="矩形备份-2" fill="#B37FEB" x="31.2" y="50.4" width="32.4" height="3.6"></rect>
+                        <rect id="矩形备份-6" fill="#B37FEB" x="31.2" y="60" width="32.4" height="3.6"></rect>
+                        <line x1="11.5714286" y1="0" x2="11.5714286" y2="74.4" id="路径-193" stroke="#FFFFFF" stroke-width="0.6"></line>
+                        <circle id="椭圆形" fill="#B37FEB" cx="22.8" cy="42" r="2.4"></circle>
+                        <circle id="椭圆形备份-3" fill="#B37FEB" cx="22.8" cy="51.6" r="2.4"></circle>
+                        <circle id="椭圆形备份-4" fill="#B37FEB" cx="22.8" cy="61.2" r="2.4"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
